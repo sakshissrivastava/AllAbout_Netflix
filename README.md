@@ -25,5 +25,7 @@ The dataset for this analysis can be found on [Kaggle](https://www.kaggle.com/da
 The visual representation of the final dashboard is displayed below. 
 Multiple graphs has been used to summarize the insights from the dataset. Users can use filters to discover a movie's or TV show's description as well as  the year it was released in, the rating, duration, directors and genre. 
 
+![DashboardScreenshot](https://user-images.githubusercontent.com/123297799/229793164-29e9897c-f892-4e20-a289-2ad6d5ccad5c.png)
+
 
 
